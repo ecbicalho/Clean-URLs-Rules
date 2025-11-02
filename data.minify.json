@@ -605,7 +605,10 @@
 			"rules":[
 				"src",
 				"platform",
-				"redirect_source"
+				"redirect_source",
+				"utm_source",
+				"utm_medium",
+				"utm_content"
 			],
 			"exceptions":[
 				"^https?:\\/\\/(?:[a-z0-9-]+\\.)*?mozilla.org\\/api"
